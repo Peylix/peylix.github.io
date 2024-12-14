@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 
 const BirthdayAnimation = () => {
   const characters = ['生', '日', '快', '乐'];
