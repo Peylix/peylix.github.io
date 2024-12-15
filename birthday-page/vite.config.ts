@@ -1,10 +1,15 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/birthday-page/',
+  base: '/birthday',  // 在开发环境中使用根路径
+  server: {
+    middlewareMode: false,
+    fs: {
+      strict: false
+    }
+  },
   build: {
     outDir: 'dist',
     assetsDir: 'assets'
