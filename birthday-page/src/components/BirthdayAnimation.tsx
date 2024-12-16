@@ -3,8 +3,8 @@ import { fallingStrings } from '../config/stringConfig';
 import FallingString from './MatrixRain';
 
 const BirthdayAnimation = () => {
-  const characters = ['刘', '维', '轩', '生', '日', '快', '乐'];
-  const colors = ['#ffa86e', '#23a5eb', '#10ea1b', '#FF69B4', '#FFD700', '#87CEEB', '#98FB98'];
+  const characters = ['梁', '轶', '尘', '生', '日', '快', '乐'];
+  const colors = ['#ffa86e', '#87CEEB', '#98FB98', '#23a5eb', '#10ea1b', '#FF69B4', '#FFD700'];
   const [activeIndex, setActiveIndex] = useState(0);
   const [stringPositions, setStringPositions] = useState<number[]>([]);
 
