@@ -79,14 +79,14 @@ const BirthdayAnimation = () => {
         .bg-gradient-animated {
           background: linear-gradient(
             330deg,
-            #e73c7e,
-            #23a6d5,
-            #23d5ab,
-            #bd93f9,
-            #ff79c6,
-            #50fa7b,
-            #ffb86c,
-            #ff5555
+rgb(60, 231, 140),
+rgb(35, 177, 213),
+rgb(252, 172, 43),
+rgb(232, 142, 255),
+rgb(255, 102, 166),
+rgb(80, 250, 168),
+rgb(182, 108, 255),
+rgb(255, 136, 85)
           );
           background-size: 400% 400%;
           animation: gradient 15s ease infinite;
