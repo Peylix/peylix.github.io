@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import BirthdayAnimation from './components/BirthdayAnimation';
 
 function App() {
-  const basename = import.meta.env.DEV ? '/' : '/birthday-lyc';
+  const basename = import.meta.env.DEV ? '/' : '/birthday_lyc';
 
   return (
     <Router basename={basename}>

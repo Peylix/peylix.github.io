@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/birthday-lyc',
+  base: '/birthday_lyc',
   server: {
     middlewareMode: false,
     fs: {
