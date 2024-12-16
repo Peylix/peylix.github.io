@@ -7,7 +7,7 @@ function App() {
   return (
     <Router basename={basename}>
       <Routes>
-        <Route path="/birthday" element={<BirthdayAnimation />} />
+        <Route path="/" element={<BirthdayAnimation />} />
       </Routes>
     </Router>
   );
