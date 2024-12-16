@@ -95,4 +95,4 @@ Please change the parent <Route path="${A}"> to <Route path="${A==="/"?"*":`${A}
           0%, 100% { transform: translateY(0); }
           50% { transform: translateY(-20px); }
         }
-      `})]})};function hh(){return Oe.jsx(nh,{basename:"/birthday",children:Oe.jsx(Op,{children:Oe.jsx(Nc,{path:"/",element:Oe.jsx(ph,{})})})})}Bd.createRoot(document.getElementById("root")).render(Oe.jsx(Id.StrictMode,{children:Oe.jsx(hh,{})}));
+      `})]})};function hh(){return Oe.jsx(nh,{basename:"/birthday-lyc",children:Oe.jsx(Op,{children:Oe.jsx(Nc,{path:"/",element:Oe.jsx(ph,{})})})})}Bd.createRoot(document.getElementById("root")).render(Oe.jsx(Id.StrictMode,{children:Oe.jsx(hh,{})}));
