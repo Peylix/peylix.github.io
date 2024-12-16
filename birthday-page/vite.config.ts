@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/birthday',  // 在开发环境中使用根路径
+  base: '/birthday',
   server: {
     middlewareMode: false,
     fs: {
