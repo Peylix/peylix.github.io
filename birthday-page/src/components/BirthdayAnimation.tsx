@@ -42,7 +42,8 @@ const BirthdayAnimation = () => {
 
       {/* 内容层 */}
       <div className="relative w-full h-full flex items-center justify-center z-10 bg-black/30">
-        <div className="flex flex-row gap-8 p-8">
+        {/* Adjust the container for responsive layouts */}
+        <div className="flex flex-row flex-wrap gap-4 p-4 md:flex-nowrap md:gap-8 md:p-8 justify-center items-center">
           {characters.map((char, index) => (
             <div
               key={index}
@@ -52,7 +53,8 @@ const BirthdayAnimation = () => {
               }}
             >
               <div
-                className="text-8xl md:text-9xl lg:text-[150px] font-bold cursor-pointer hover:scale-110 transition-transform"
+                // Use responsive text sizes
+                className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl xl:text-[150px] font-bold cursor-pointer hover:scale-110 transition-transform"
                 style={{
                   color: colors[index],
                   textShadow: `0 0 20px ${colors[index]}`,
