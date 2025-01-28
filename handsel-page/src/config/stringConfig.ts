@@ -99,7 +99,7 @@ export const fallingStrings: StringConfig[] = [
     delay: 3
   },
   {
-    text: "祝你一切年春节快乐",
+    text: "祝你腮帮子快乐",
     color: "#1aa18a",
     speed: 10,
     fontSize: "1.3rem",
