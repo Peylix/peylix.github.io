@@ -16,14 +16,14 @@ export const fallingStrings: StringConfig[] = [
   },
   {
     text: "你",
-    color: "#ff79c6",
+    color: "#23a5eb",
     speed: 12,
     fontSize: "1rem",
     delay: 2
   },
   {
     text: "春",
-    color: "#bd93f9",
+    color: "#eeeee9",
     speed: 18,
     fontSize: "1.4rem",
     delay: 1
@@ -51,14 +51,14 @@ export const fallingStrings: StringConfig[] = [
   },
   {
     text: "春节快乐",
-    color: "#ff79c6",
+    color: "#23a5eb",
     speed: 12,
     fontSize: "1rem",
     delay: 1
   },
   {
     text: "春晚快乐",
-    color: "#bd93f9",
+    color: "#eeeee9",
     speed: 18,
     fontSize: "1.4rem",
     delay: 0
@@ -86,14 +86,14 @@ export const fallingStrings: StringConfig[] = [
   },
   {
     text: "祝你去年春节快乐",
-    color: "#ff79c6",
+    color: "#23a5eb",
     speed: 12,
     fontSize: "1rem",
     delay: 1
   },
   {
     text: "祝你明年春节快乐",
-    color: "#bd93f9",
+    color: "#eeeee9",
     speed: 18,
     fontSize: "1.4rem",
     delay: 3
@@ -121,14 +121,14 @@ export const fallingStrings: StringConfig[] = [
   },
   {
     text: "旺旺雪米饼祝您礼旺财旺运更旺",
-    color: "#ff79c6",
+    color: "#23a5eb",
     speed: 12,
     fontSize: "1rem",
     delay: 0
   },
   {
     text: "本页面中所有商标的相关权利均属于其所属之企业，且与本页面并无关联",
-    color: "#bd93f9",
+    color: "#eeeee9",
     speed: 18,
     fontSize: "1.4rem",
     delay: 2
@@ -142,14 +142,14 @@ export const fallingStrings: StringConfig[] = [
   },
   {
     text: "今年过节不送礼，送礼就送脑白金",
-    color: "#ff79c6",
+    color: "#23a5eb",
     speed: 12,
     fontSize: "1rem",
     delay: 2
   },
   {
     text: "火鸡祝您春节快乐",
-    color: "#bd93f9",
+    color: "#eeeee9",
     speed: 18,
     fontSize: "1.4rem",
     delay: 1
@@ -184,14 +184,14 @@ export const fallingStrings: StringConfig[] = [
   },
   {
     text: "大家一起包包子",
-    color: "#ff79c6",
+    color: "#23a5eb",
     speed: 12,
     fontSize: "1rem",
     delay: 2
   },
   {
     text: "大家一起包馅饼",
-    color: "#bd93f9",
+    color: "#eeeee9",
     speed: 18,
     fontSize: "1.4rem",
     delay: 1
