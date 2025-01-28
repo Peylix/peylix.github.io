@@ -127,7 +127,7 @@ export const fallingStrings: StringConfig[] = [
     delay: 0
   },
   {
-    text: "本页面中所有商标的相关权利均属于对于企业",
+    text: "本页面中所有商标的相关权利均属于其所属之企业，且与本页面并无关联",
     color: "#bd93f9",
     speed: 18,
     fontSize: "1.4rem",
@@ -176,35 +176,35 @@ export const fallingStrings: StringConfig[] = [
     delay: 2
   },
   {
-    text: "啊",
+    text: "大家一起包饺子",
     color: "#50fa7b",
     speed: 15,
     fontSize: "1.2rem",
     delay: 0
   },
   {
-    text: "啊",
+    text: "大家一起包包子",
     color: "#ff79c6",
     speed: 12,
     fontSize: "1rem",
     delay: 2
   },
   {
-    text: "啊",
+    text: "大家一起包馅饼",
     color: "#bd93f9",
     speed: 18,
     fontSize: "1.4rem",
     delay: 1
   },
   {
-    text: "啊",
+    text: "沙威马哦沙威马哦沙威马",
     color: "#1aa18a",
     speed: 10,
     fontSize: "1.3rem",
     delay: 3
   },
   {
-    text: "啊",
+    text: "有了你生活美好没烦恼",
     color: "#8be9fd",
     speed: 20,
     fontSize: "1.1rem",
